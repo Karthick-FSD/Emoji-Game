@@ -1,4 +1,4 @@
-In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
+[Website : https://emojigameplayk.ccbp.tech/]
 
 ### Refer to the image below:
 
